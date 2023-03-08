@@ -1,10 +1,3 @@
-######################################################
-# Programação Funcional / Programção I (2022/2)
-# EP2 - Jogo da Velha
-# Nome: FELIPE KITAMOTO AMARAL
-# Matrícula: 2022200987
-######################################################
-
 import random
 from os import system, name 
 
